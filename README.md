@@ -116,4 +116,3 @@ Output: `YES`
 
 ---
 
-Let me know if you'd like a [dry run with sample input](f), [diagram of palindrome positions](f), or [annotated code](f).
