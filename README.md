@@ -1,1 +1,1 @@
-﻿# Not-Quite-a-Palindromic-String-CF:
+### Not-Quite-a-Palindromic-String-CF:
